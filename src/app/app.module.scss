@@ -1,0 +1,12 @@
+.container {
+    > p {
+        font-weight: bold;
+        font-size: 56px;
+        font-family: "PT Sans", sans-serif;
+    }
+
+    > button {
+        padding: 10px;
+        background-color: darkolivegreen;
+    }
+}
